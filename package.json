@@ -1,0 +1,11 @@
+{
+  "name": "week08",
+  "version": "1.0.0",
+  "description": "Week 8 Assignment",
+  "main": "week08.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
